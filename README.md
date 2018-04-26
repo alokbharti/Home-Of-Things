@@ -6,5 +6,4 @@ An android app which allows user to read news regarding NGOs and also can donate
  4. Also provides a section for NGOs to aware them about the donated products to distribute them in their organizations  
  
  
- Watch the demonstration of my video...
- [![Watch the video](Home-Of-Things/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png)](https://www.youtube.com/watch?v=0Vvcn3RHzpg&feature=youtu.be)
+ [![Watch the demonstration of the app]](https://www.youtube.com/watch?v=0Vvcn3RHzpg&feature=youtu.be)
